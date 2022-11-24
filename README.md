@@ -1,7 +1,7 @@
 # med-scam-scanner
 
-# react native app 
+* react native app 
 
-# detect scam url
+* detect scam url
 
-# dev in progress
+* dev in progress
