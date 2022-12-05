@@ -49,7 +49,7 @@ export default function App() {
 
   return (
       <View style={styles.container}>
-        <Text style={styles.titleText}>Scam URL Scammer </Text>
+        <Text style={styles.titleText}>Scam URL Scanner </Text>
         <TextInput style={styles.input}
           onChangeText={(text) => setText(text)}
           placeholder="Enter URL here"
